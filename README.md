@@ -1,6 +1,6 @@
 # MVC 4 Music Store
 
-## For web site administration tool ```(For [StoreManagerController](https://github.com/humayoun007/MVC4MusicStore/blob/main/MvcMusicStore/Controllers/StoreManagerController.cs) class [Authorize(Roles = "Administrator")]``` part need this section) 
+## For web site administration tool (For [StoreManagerController](https://github.com/humayoun007/MVC4MusicStore/blob/main/MvcMusicStore/Controllers/StoreManagerController.cs) ```class [Authorize(Roles = "Administrator")]``` part need this section) 
 go to this location and open command prompt here : ```cd C:\Program Files (x86)\IIS Express```
 
 ### Note: Your project IIS hosting or IIS Express hosting port here,find project vs project properties mine is:50345
